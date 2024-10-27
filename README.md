@@ -8,7 +8,7 @@
 ## 💻 What I've learned so far
 - **Core Programming Skills:** Strong understanding of variable types, user input/output, arithmetic and boolean operators. Skilled in conditionals, loops, arrays and ArrayLists.
 - **Code Structure & Design:** Proficient in breaking down problems, structuring code with functions and converting functional descriptions into class diagrams. Knowledge of encapsulation, inheritance and polymorphism.
-- **Object-Oriented Development:** Experience with design patterns, unit testing and code coverage principles. Comfortable with CRUD operations, event handling and GUI building in Android.
+- **Object-Oriented Development:** Experience with unit testing and code coverage principles. Comfortable with CRUD operations, event handling and GUI building in Android.
 - **Tools & Technologies:** Proficient in IntelliJ, Android Studio, Visual Paradigm and Git.
 - **Teamwork & Project Skills:** Familiar with iterative, feature-based development and able to contribute to team collaboration, problem analysis and creative solution-finding.
 - **Research & Documentation:** Skilled in information sourcing, documenting designs and defining requirements to support application development.
