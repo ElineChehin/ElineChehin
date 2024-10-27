@@ -12,7 +12,7 @@
 - **Tools & Technologies:** Proficient in IntelliJ, Android Studio, Visual Paradigm and Git.
 - **Teamwork & Project Skills:** Familiar with iterative, feature-based development and able to contribute to team collaboration, problem analysis and creative solution-finding.
 - **Research & Documentation:** Skilled in information sourcing, documenting designs and defining requirements to support application development.
-- **Front-end development:** Did a 5 Day Coding Challenge where I learned the very basics of HTML, CSS and JavaScript.
+- **Front-end Development:** Did a 5 Day Coding Challenge where I learned the very basics of HTML, CSS and JavaScript.
 
 ## 🌱 Currently learning
 - **Design Patterns:** Applying patterns to improve application design.
