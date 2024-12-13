@@ -22,7 +22,7 @@
 - **Embedded Programming:** Controlling sensors and actuators with embedded programming.
 
 ## 🚧 Projects
-- ☕ **Smart Coaster**: (Work in progress) A smart coaster that will let you know when your hot beverage is ready to drink. It will include setting a preferred temperature, using sound and light signals to indicate when the drink reaches that temperature, sending notifications to smart devices and providing an option to reheat the drink if it cools down too much. It consists of three key components: an Arduino microcontroller to read sensors and control actuators, a user application for data visualization and device control and a server application to manage data flow between the microcontroller, database and user app.
+- ☕ **Solis**: (Work in progress) A smart coaster that will let you know when your hot beverage is ready to drink. It will include setting a preferred temperature, using sound and light signals to indicate when the drink reaches that temperature, sending notifications to smart devices and providing an option to reheat the drink if it cools down too much. It consists of three key components: an Arduino microcontroller to read sensors and control actuators, a user application for data visualization and device control and a server application to manage data flow between the microcontroller, database and user app.
 
 - 💥 **Omnibus**: Console application that allows users to manage a fictional world of superheroes and villains. Users can view and manage lists of heroes and villains including their gadgets, power levels and fans. The app also supports battles between heroes and villains, where factors like power levels, gadgets and fans determine the outcome.
 
