@@ -1,7 +1,7 @@
 # 👋🏽 Hi, I’m **Eline Chehin**
 - 🎓 **Software engineering student**
 - 👀 I’m interested in learning new things!
-- 📈 **Career Goal:** Aspiring to become a full stack Java developer and eager to learn more about front-end development.
+- 📈 **Career Goal:** Aspiring to become a full stack developer.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/eline-chehin-9a0308157/) | [Email](mailto:elinepine@gmail.com)
 - ⚡ Fun fact: I love go-karting. I used to do this professionally when I was younger.
 
@@ -12,17 +12,26 @@
 - **Tools & Technologies:** Proficient in IntelliJ, Android Studio, Visual Paradigm and Git.
 - **Teamwork & Project Skills:** Familiar with iterative, feature-based development and able to contribute to team collaboration, problem analysis and creative solution-finding.
 - **Research & Documentation:** Skilled in information sourcing, documenting designs and defining requirements to support application development.
-- **Front-end Development:** Did a 5 Day Coding Challenge where I learned the very basics of HTML, CSS and JavaScript.
-
-## 🌱 Currently learning
 - **Design Patterns:** Applying patterns to improve application design.
 - **Algorithm Development:** Solving complex problems through coding.
 - **Efficient Data Structures:** Implementing optimized code with data structures.
 - **Testing & Diagrams:** Performing system and integration tests; creating sequence and component diagrams to model systems.
 - **Embedded Programming:** Controlling sensors and actuators with embedded programming.
+- **Front-end Development:** Did a 5 Day Coding Challenge where I learned the very basics of HTML, CSS and JavaScript.
+
+## 🌱 Currently learning
+- **HTML:** Defining the structure of web pages.
+- **CSS:** Styling and designing web pages.
+- **JavaScript:** Creating interactive and dynamic content.
+- **Frontend & Backend Development:** Working with both client- and server-side technologies.
+- **Frameworks:** React
+- **Runtime Environment:** Node.js
+- **Libraries:** Utilizing tools to improve development efficiency
+- **UX/UI Design:** Designing intuitive websites and applications based on user needs.
+- **Web Security:** Understanding the fundamentals of securing web applications against threats.
 
 ## 🚧 Projects
-- ☕ **Solis**: (Work in progress) A smart coaster that will let you know when your hot beverage is ready to drink. It will include setting a preferred temperature, using sound and light signals to indicate when the drink reaches that temperature, sending notifications to smart devices and providing an option to reheat the drink if it cools down too much. It consists of three key components: an Arduino microcontroller to read sensors and control actuators, a user application for data visualization and device control and a server application to manage data flow between the microcontroller, database and user app.
+- ☕ **Solis**: A smart coaster that will let you know when your hot beverage is ready to drink. I includes setting a preferred temperature, using sound and light signals to indicate when the drink reaches that temperature, sending notifications to smart devices and providing an option to reheat the drink if it cools down too much. It consists of three key components: an Arduino microcontroller to read sensors and control actuators, a user application for data visualization and device control and a server application to manage data flow between the microcontroller, database and user app.
 
 - 💥 **Omnibus**: Console application that allows users to manage a fictional world of superheroes and villains. Users can view and manage lists of heroes and villains including their gadgets, power levels and fans. The app also supports battles between heroes and villains, where factors like power levels, gadgets and fans determine the outcome.
 
